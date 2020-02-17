@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PassKeep</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">Welcome</string>
+    <string name="textview">TextView</string>
+    <string name="password">Password :</string>
+    <string name="title">Title :</string>
+    <string name="save">Save</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="long_click_on_the_item_to_edit_its_information">Long click on the item to copy to clipboard</string>
+    <string-array name="titles">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rabbit</item>
+        <item>Snake</item>
+        <item>Mouse</item>
+        <item>Cow</item>
+    </string-array>
+    <string-array name="passwords">
+        <item>Cat is cute</item>
+        <item>Dog is faithful</item>
+        <item>Rabbit eats carrot</item>
+        <item>Snake is snaky</item>
+        <item>Mouse is small</item>
+        <item>Cow is big</item>
+    </string-array>
+    <string name="welcome">Theme Example</string>
+
+    <string-array name="themes">
+        <item>Theme1</item>
+        <item>Theme2</item>
+    </string-array>
+
+    <string name="OK">OK</string>
+    <string name="def_theme">Theme1</string>
+    <string name="theme_summary">Appearance</string>
+    <string name="theme_dialog_title">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="please_enter_the_web_address_n_you_want_to_use_this_password_for">Please enter the web address.</string>
+</resources>
